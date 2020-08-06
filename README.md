@@ -1,16 +1,19 @@
-# UX CHALLENGE - Grupo Ámate
+## UX CHALLENGE - Grupo Ámate
 
 El COVID-19 ha cambiado las interacciones en casi todos los ámbitos incluido el comercio de productos y servicios. La dinámica del mercado como tradicionalmente la conocíamos ya no es sostenible es por eso  que GRUPO ÁMATE al igual que muchos emprendedores en Perú y el mundo están atravesando por un rediseño de negocio para llegar a sus usuarios.
 
 El objetivo principal de aprendizaje de este proyecto fue entender ¿Cómo pasamos de lo que un cliente quiere alcanzar a la definición de un producto digital en poco tiempo? 
 A continuación conoce cual fue nuestro proceso para lograrlo:
 
+##
+
 ![Grupo Ámate (1)](https://user-images.githubusercontent.com/60905476/85802469-a0969300-b70a-11ea-84bf-e024d1eee8db.png)
 ![Grupo Ámate (2)](https://user-images.githubusercontent.com/60905476/85802472-a1c7c000-b70a-11ea-836d-3a3954958609.png)
 ![Grupo Ámate (3)](https://user-images.githubusercontent.com/60905476/85802479-a55b4700-b70a-11ea-86e0-589b51114e75.png)
 ![Grupo Ámate (4)](https://user-images.githubusercontent.com/60905476/85802482-a68c7400-b70a-11ea-8bb6-cb2716f7f505.png)
 
-ÍNDICE:
+
+### :arrow_right:  ÍNDICE ENTREGABLES:
 
 [Guía de Entrevistas con Usuarios de Grupo Ámate | Word](https://docs.google.com/document/d/1VmFEzIyuXxoRSUxNsJu_9O-RgXgwFUjW0NYLk697rjo/edit#)
 
@@ -20,16 +23,26 @@ A continuación conoce cual fue nuestro proceso para lograrlo:
 
 [Entrevistas y Testeos con Usuarios | Video & Audio](https://drive.google.com/drive/folders/19YpIAcr1v35j0htL8TIXUaUKayM8dWTo)
 
-[Empathy Map | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+[Empathy Map | PNG](https://user-images.githubusercontent.com/60905476/89476756-24538e80-d751-11ea-9590-4598b260c05e.jpg)
 
-[User Persona | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+[User Persona | JPG](https://user-images.githubusercontent.com/60905476/89476632-d5a5f480-d750-11ea-9e10-60715b424efb.jpg)
 
-[Journey Map | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+[Journey Map | PNG](https://user-images.githubusercontent.com/60905476/89476521-8233a680-d750-11ea-802b-6e03f864c206.png)
 
-[Site Map | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+[Site Map | PNG](https://user-images.githubusercontent.com/60905476/89476057-5106a680-d74f-11ea-8f86-30ebe503ae19.png)
 
 [Figma Proyecto](https://www.figma.com/proto/rucEWhSlq3XgGdnqPcZKlm/Prototipo-Final-%C3%81mate?node-id=911%3A6843&scaling=contain)
 
 [Zeplin](https://zpl.io/2EN1eGg)
 
+[Video presentación | Loom](https://www.loom.com/share/e4149b22a3564e539af4a1c9980d7fb2)
+
 [Presentación Final | Canva](https://www.canva.com/design/DAD_oyQmsAI/Y1ltborsy3vj1Xlq1HpOJA/view?utm_content=DAD_oyQmsAI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
+
+##
+
+
+Proyecto realizado en Junio 2020 por Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres.
+**LABORATORIA, UX CDMX009-LIM012.**
+
